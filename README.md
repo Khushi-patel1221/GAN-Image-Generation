@@ -12,7 +12,7 @@ Evaluation and Visualization: Includes tools to visualize generated images and e
 
 ## Technologies Used 💻
 
-# Core Libraries:
+## Core Libraries:
 
 Python: Core programming language used for model development.
 TensorFlow/Keras: Framework used for building and training the GAN models.
@@ -20,7 +20,7 @@ NumPy: Used for data manipulation.
 Matplotlib: Used for visualizing the generated images.
 Dataset:CelebA: A large-scale dataset of celebrity faces, used to train the GAN
 
-# Installation 🚀
+## Installation 🚀
 
 Clone the repository:
 1. Clone the repository:
